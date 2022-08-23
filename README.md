@@ -1,4 +1,4 @@
-# Dax_Exercise
+# DAX_Exercise
 ### DAX Exercise building a Sales, Cost, Profit and KPI Dashboard during Data Science Academy's Power BI course.
 
 These are the reference, dataset and Dashboards I`ve built during the fourth chapter of [Data Science Academy's Power BI Course](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science) as a case study. For more information on it check my Medium post [Introduction to DAX and M for Power BI with a Sample Dashboard](https://medium.com/@douglas.rochedo/introduction-to-dax-and-m-for-power-bi-with-a-sample-dashboard-8a3f4028b8a8).
